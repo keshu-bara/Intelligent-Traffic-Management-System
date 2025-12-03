@@ -469,7 +469,6 @@ ITMS/
 | `main.py` | Backend API server | FastAPI + TraCI |
 | `index.html` | Dashboard interface | HTML + Tailwind CSS |
 | `script.js` | Frontend logic | Vanilla JavaScript |
-| `style.css` | Custom styling | CSS + Tailwind |
 | `csv_vehicles.sumocfg` | SUMO configuration | XML |
 | `data2.csv` | Vehicle data source | CSV |
 
